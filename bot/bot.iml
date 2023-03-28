@@ -54,5 +54,6 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context-indexer:6.0.3" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.24" level="project" />
+    <orderEntry type="library" name="Maven: io.swagger.core.v3:swagger-annotations-jakarta:2.2.7" level="project" />
   </component>
 </module>
